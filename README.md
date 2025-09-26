@@ -12,6 +12,7 @@ Este proyecto es una función Lambda en AWS que consulta el precio de compra y v
 - Configuré IAM Roles con permisos necesarios para SES y Lambda.
 - Usé la consola web de AWS para desarrollar y probar la función.
 
+
 ## ¿Qué aprendí?
 
 - Cómo usar AWS Lambda para ejecutar código sin servidor.
@@ -35,5 +36,5 @@ Este proyecto es una función Lambda en AWS que consulta el precio de compra y v
 3. Crear un trigger en EventBridge para ejecutar cada 15 minutos.
 4. Probar la función manualmente desde la consola.
 
-
+## Conversación  con Developer Q
 
