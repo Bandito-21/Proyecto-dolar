@@ -12,8 +12,8 @@ def lambda_handler(event, context):
         promedio = round((compra + venta) / 2, 2)
         mensaje = f"A tus amigos puedes venderles los dólares a: ${promedio}"
 
-        SENDER = "yeremyrincon@gmail.com"       # Cambia acá
-        RECIPIENT = "yeremyrincon@gmail.com"    # Cambia acá
+        SENDER = "yeremyrincon@gmail.com"       
+        RECIPIENT = "yeremyrincon@gmail.com"    
         AWS_REGION = "us-east-2"
         SUBJECT = "Precio promedio dólar"
         CHARSET = "UTF-8"
