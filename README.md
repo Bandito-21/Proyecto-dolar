@@ -38,3 +38,5 @@ Este proyecto es una función Lambda en AWS que consulta el precio de compra y v
 
 ## Conversación  con Developer Q
 
+![Evidencia](./Evidencia.png)
+
